@@ -3,7 +3,7 @@ import Section from "../Section.astro";
 
 import { education } from "@cv";
 
-<!-- import { certificates } from "@cv"; -->
+import { certificates } from "@cv"; 
 ---
 
 <Section className={Astro.props.className} title="Education">
@@ -36,7 +36,7 @@ import { education } from "@cv";
 		}
 	</ul>
 
-	<!-- 
+
 	{
 		certificates.length > 0 && (
 			<>
@@ -68,6 +68,5 @@ import { education } from "@cv";
 			</>
 		)
 	}
-	-->
 
 </Section>

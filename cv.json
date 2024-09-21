@@ -1,122 +1,96 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Abdul Aziz Marifudin",
+    "label": "DevOps Engineer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "abdulaziz.marifudin@gmail.com",
+    "phone": "+62 813-1163-1257",
+    "url": "https://abdulazizm.my.id/",
+    "summary": "I'm passionate about staying up-to-date with the latest in computer technology and enjoy exploring new developments in the field. As a skilled problem solver, I have hands-on experience resolving hardware and software issues, including diagnosing NIC errors and successfully managing Linux OS errors. I also resolved a complex VMware installation issue in an isolated environment that persisted for over two weeks, even after escalation to VMware support. With patience and persistence, I was able to complete the installation successfully.",
     "theme": "default",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
+      "city": "Semarang",
       "countryCode": "NZ",
-      "region": "New Zealand"
+      "region": "Indonesia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "abdul-aziz-marifudin",
+        "url": "https://www.linkedin.com/in/abdul-aziz-marifudin/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Masorekt",
+        "url": "https://x.com/MasoRekt"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "KazamiHazaki",
+        "url": "https://github.com/KazamiHazaki"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "PT.Sinergi Merah Putih",
+      "position": "Sys Engineer",
+      "location_type": "On-site",
+      "location": "Tangerang, Indonesia",
+      "url": "https://www.sinergimp.co.id/",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Building and maintaining CI/CD pipelines using Jenkins to streamline application deployment. I also deploy and manage infrastructure using Terraform and Ansible, ensuring reliable and scalable environments. Additionally, I monitor both applications and infrastructure performance using Grafana to ensure optimal operation and uptime.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Develop and manage CI/CD pipelines for both development and production environments.",
+        "Manage virtual machines (VMs) by deploying, updating specifications, deleting VMs using Terraform, VMware ESXi, or vCenter, and maintaining VMs from installation to application deployment.",
+        "Dockerize applications based on Node.js to streamline development and deployment processes.",
+        "Deploy applications on cloud platforms such as AWS and GCP, ensuring efficient and scalable infrastructure.",
+        "Identify and resolve hardware issues on bare metal servers, ensuring optimal performance and minimizing downtime.",
+        "Create simple bash scripts to automate tasks and improve system management."
+        
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Collaborated with development teams to successfully deploy and maintain CI/CD pipelines, ensuring seamless integration and continuous delivery of applications."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Docker",
+        "Terraform",
+        "Ansible",
+        "Jenkins"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "name": "PT.Multikarya Sarana Perkasa",
+      "position": "Administrative Assistant",
+      "location_type": "On-site",
+      "location": "Banten, Indonesia",
+      "url": "https://multikaryasaranaperkasa.com/",
+      "startDate": "2018-03-01",
+      "endDate": "2019-02-01",
+      "summary": "Provided essential administrative support to ensure smooth office operations. My responsibilities included assisting with daily office tasks, managing general administrative duties, and preparing regularly scheduled reports.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Providing administrative support to ensure efficient operation of the office.",
+        "Assisting in daily office needs and managing general administrative activities.",
+        "Assisting in the preparation of regularly scheduled reports.",
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Secured Permits for Construction Workers: Successfully ensured that all necessary permits for workers were obtained from area owners, facilitating smooth operations as a construction vendor."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
+        "Office",
+        "Communication"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
+  ]
   "education": [
     {
       "institution": "State University",
@@ -156,14 +130,6 @@
         "IT101 - Networking Fundamentals",
         "IT102 - Database Management Systems"
       ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
   "skills": [

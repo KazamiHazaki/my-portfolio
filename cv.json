@@ -7,7 +7,7 @@
     "phone": "+62 813-1163-1257",
     "url": "https://abdulazizm.my.id/",
     "summary": "I'm passionate about staying up-to-date with the latest in computer technology and enjoy exploring new developments in the field. As a skilled problem solver, I have hands-on experience resolving hardware and software issues, including diagnosing NIC errors and successfully managing Linux OS errors. I also resolved a complex VMware installation issue in an isolated environment that persisted for over two weeks, even after escalation to VMware support. With patience and persistence, I was able to complete the installation successfully.",
-    "theme": "default",
+    "theme": "light",
     "location": {
       "address": "",
       "postalCode": "10001",
@@ -80,7 +80,7 @@
       "responsibilities": [
         "Providing administrative support to ensure efficient operation of the office.",
         "Assisting in daily office needs and managing general administrative activities.",
-        "Assisting in the preparation of regularly scheduled reports.",
+        "Assisting in the preparation of regularly scheduled reports."
       ],
       "achievements": [
         "Secured Permits for Construction Workers: Successfully ensured that all necessary permits for workers were obtained from area owners, facilitating smooth operations as a construction vendor."
@@ -90,139 +90,50 @@
         "Communication"
       ]
     }
-  ]
+  ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "institution": "Universitas Dian Nuswantoro",
+      "url": "https://dinus.ac.id/",
+      "area": "Diploma of Information Technology",
+      "studyType": "Diploma",
+      "startDate": "2019-09-01",
+      "endDate": "2024-05-01",
+      "score": "0",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
+      "institution": "DevOps Bootcamp",
+      "url": "https://dumbways.id/",
+      "area": "DevOps Engineer",
+      "studyType": "Bootcamp",
+      "startDate": "2022-09-01",
+      "endDate": "2023-12-01",
       "score": "3.9",
       "courses": [
         "SE201 - Advanced Software Development",
         "SE202 - Software Architecture and Design"
       ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "DevOps Engineer",
       "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "issuer": "Online Bootcamp",
+      "url": "https://dumbways.id/certificate?u=630d684cf1cd91003bf3fa4e"
     }
   ],
+  
   "skills": [
     {
-      "name": "Figma",
+      "name": "Terraform",
       "level": "Expert",
       "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "IaaS Code"
       ]
     },
     {
@@ -235,34 +146,25 @@
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Jenkins",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        "CICD Tools"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
+      "name": "Docker",
+      "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Container"
       ]
     },
     {
-      "name": "React",
+      "name": "Kubernetes",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Container",
+        "Orchestration system"
       ]
     }
   ],
